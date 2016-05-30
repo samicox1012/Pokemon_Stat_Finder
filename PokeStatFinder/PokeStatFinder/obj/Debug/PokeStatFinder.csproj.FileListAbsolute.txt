@@ -1,1 +1,9 @@
 C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\bin\Debug\PokeStatFinder.exe.config
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\bin\Debug\PokeStatFinder.exe
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\bin\Debug\PokeStatFinder.pdb
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\obj\Debug\PokeStatFinder.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\obj\Debug\PokeStatFinder.Form1.resources
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\obj\Debug\PokeStatFinder.Properties.Resources.resources
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\obj\Debug\PokeStatFinder.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\obj\Debug\PokeStatFinder.exe
+C:\Users\Sami\Documents\PokeStatFinder\Pokemon_Stat_Finder\PokeStatFinder\PokeStatFinder\obj\Debug\PokeStatFinder.pdb
